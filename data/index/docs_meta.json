@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "source": "D:\\AAAA_Personal\\4QUATRIEME_ANNEE\\Master-SI-Bizerte\\Certification-M.Fath-Allah\\Exam\\Examen MR2-IngenProtoc-13-01-2026-Final\\Phase 2\\data\\raw\\procedure_building_permit_ar.txt",
+    "chunk_id": 0,
+    "text": "العنوان: مثال إجرائي — مطلب رخصة بناء (وثيقة تعليمية)\n\nالهدف: شرح عام لخطوات تقديم مطلب رخصة بناء لدى البلدية.\n\nخطوات نموذجية:\n1) التأكد من وضعية العقار (ملكية/عقد/رسم عقاري) ومن مطابقة المشروع لتهيئة عمرانية.\n2) إعداد الملف: مخططات هندسية، تقرير فني، نسخة من وثائق الملكية، وصل في أداء معلوم إن وجد.\n3) إيداع المطلب لدى البلدية أو الشباك الموحد.\n4) دراسة الملف من المصالح الفنية وإبداء الملاحظات.\n5) إما قبول المطلب وإصدار الرخصة، أو طلب استكمال وثائق/تعديلات.\n\nملاحظة: هذه وثيقة نموذجية للتدريب ويجب تعويضها بوثائق رسمية تونسية."
+  },
+  {
+    "id": 1,
+    "source": "D:\\AAAA_Personal\\4QUATRIEME_ANNEE\\Master-SI-Bizerte\\Certification-M.Fath-Allah\\Exam\\Examen MR2-IngenProtoc-13-01-2026-Final\\Phase 2\\data\\raw\\procedure_cin_renewal_fr.txt",
+    "chunk_id": 0,
+    "text": "Titre: Renouvellement de la Carte d'Identité Nationale (CIN) — Procédure (Document synthétique)\n\nBut: Fournir un guide général (exemple) pour un renouvellement de CIN.\n\nÉtapes typiques:\n1) Vérifier les conditions (validité expirée, perte/vol, changement d'état civil).\n2) Préparer les pièces justificatives (exemples):\n - Photo d'identité récente\n - Ancienne CIN (si disponible)\n - Justificatif de domicile (si requis)\n3) Se présenter au bureau compétent (poste de police / garde nationale selon la zone).\n4) Déposer la demande et payer les frais si applicables.\n5) Suivre l'état et récupérer la nouvelle CIN selon le délai annoncé.\n\nRemarques:\n- Ce document est un exemple pédagogique et doit être remplacé par des sources officielles."
+  },
+  {
+    "id": 2,
+    "source": "D:\\AAAA_Personal\\4QUATRIEME_ANNEE\\Master-SI-Bizerte\\Certification-M.Fath-Allah\\Exam\\Examen MR2-IngenProtoc-13-01-2026-Final\\Phase 2\\data\\raw\\procedure_tax_simplified_fr.txt",
+    "chunk_id": 0,
+    "text": "Titre: Déclaration fiscale simplifiée — Checklist (Document synthétique)\n\nObjet: Donner une liste indicative des éléments demandés pour une déclaration simple.\n\nExemples de pièces/infos:\n- Identité du contribuable (sans inclure de numéro sensible dans ce prototype)\n- Revenus déclarés (montants)\n- Justificatifs de charges déductibles (si applicable)\n- Références du dossier fiscal (si disponible)\n\nProcessus indicatif:\n1) Collecter les informations et justificatifs.\n2) Remplir le formulaire requis.\n3) Déposer la déclaration via guichet ou service numérique.\n4) Conserver un accusé de réception.\n\nNote: Document pédagogique non-officiel."
+  }
+]

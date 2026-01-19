@@ -1,0 +1,17 @@
+Titre: Déclaration fiscale simplifiée — Checklist (Document synthétique)
+
+Objet: Donner une liste indicative des éléments demandés pour une déclaration simple.
+
+Exemples de pièces/infos:
+- Identité du contribuable (sans inclure de numéro sensible dans ce prototype)
+- Revenus déclarés (montants)
+- Justificatifs de charges déductibles (si applicable)
+- Références du dossier fiscal (si disponible)
+
+Processus indicatif:
+1) Collecter les informations et justificatifs.
+2) Remplir le formulaire requis.
+3) Déposer la déclaration via guichet ou service numérique.
+4) Conserver un accusé de réception.
+
+Note: Document pédagogique non-officiel.
